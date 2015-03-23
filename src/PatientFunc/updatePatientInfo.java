@@ -3,19 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package groupprojectdatafuncpart;
+package PatientFunc;
 
 /**
  *
  * @author 竹子
  */
-public class GroupProjectDataFuncPart {
+public class updatePatientInfo {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        // TODO code application logic here
     }
     
 }
